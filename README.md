@@ -48,6 +48,7 @@ A Wi-Fi-controlled robotic vehicle developed using NodeMCU ESP8266. The robot re
 
 ## Source Code
 See `code/wifi_talking_robot.ino`.
-
+##Circuit Diagram
+![Wi-Fi Talking Robot Circuit Diagram](circuit-diagram1.png.jpeg) 
 ## Project Status
 Source code uploaded. Hardware testing and calibration required.
